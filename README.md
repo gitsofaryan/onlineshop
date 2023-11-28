@@ -11,7 +11,7 @@
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/gitsofaryan/onlineshop.git.git
+    ii>git clone https://github.com/gitsofaryan/onlineshop.git
     
 4. extract files in C:\\xampp\htdocs\.
 
