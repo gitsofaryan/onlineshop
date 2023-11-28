@@ -6,12 +6,12 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
+3. Download project from github(https://github.com/gitsofaryan/onlineshop.git)  
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    ii>git clone https://github.com/PuneethReddyHC/gitsofaryan/onlineshop.git.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -27,7 +27,7 @@
 
 10. after importing successfully.
 
-11. open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+11. open any browser and type http://localhost/onlineshop.
 
 12. first register and then login
 
